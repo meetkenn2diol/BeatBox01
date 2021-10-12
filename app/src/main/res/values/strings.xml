@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeatBox01</string>
+    <string name="song_name">Song name</string>
+    <string name="seekbar_label_message">PlaybackSpeed: %1$sx.</string>
+</resources>
